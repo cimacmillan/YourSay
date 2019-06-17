@@ -1,0 +1,135 @@
+#login_button {
+  background-color:#E06D06 !important;
+  color:#ffffff !important;
+  border-width:1px !important;
+  border-color: #BC9960 !important;
+  outline: 0 !important;
+}
+#login_button:hover {
+  background-color:#E06D06 !important;
+  color:#BC9960 !important;
+}
+#login_button:active:focus {
+  background-color:#BC9960!important;
+  color:#BC9960!important;
+}
+
+#login_button_loading {
+  color:#E06D06 !important;
+}
+
+
+#home_navbar {
+  background-color: #E06D06 !important;
+}
+
+#home_search_button {
+  border: 1px solid #2121219F !important;
+}
+
+#home_vote_button {
+  border: 1px solid #2121219F !important;
+  background-color: #E06D06 !important;
+  margin: 0px !important;
+}
+
+#home_vote_progress {
+  border: 1px solid #2121219F !important;
+}
+
+#home_main_content {
+  padding-top: 4rem !important;
+}
+
+#about_main_content {
+  padding-top: 4rem !important;
+}
+
+#vote_main_content {
+  padding-top: 4rem !important;
+}
+
+#admin_main_content {
+  padding-top: 4rem !important;
+}
+
+#candidate_main_content {
+  padding-top: 4rem !important;
+}
+
+#announcements_main_content {
+  padding-top: 4rem !important;
+}
+
+.main_logo {
+  color: #E06D06 !important;
+  fill: green !important;
+}
+
+.btn-group.special {
+  display: flex;
+}
+
+.special .btn {
+  flex: 1
+}
+
+.opinion_scroll {
+  max-height:480px;
+  overflow-y: scroll;
+}
+
+.mycontent-left {
+  border-right: 1px dashed #333;
+}
+
+.image-cropper {
+    width: 64px;
+    height: 64px;
+    position: relative;
+    object-fit: cover;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.candidate-image {
+    width:100px;
+    height:100px;
+    object-fit: cover;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.candidate-image-register {
+  width:160px;
+  height:160px;
+  object-fit: cover;
+  position: relative;
+  overflow: hidden;
+  border-radius: 25%;
+}
+
+.shadow_dark {
+    box-shadow: 0 .1rem 1rem rgba(0,0,0,.5)!important;
+}
+
+
+#vote_upvote {
+  cursor: pointer;
+}
+
+.opinion_for {
+  background-color: #C4FFC4;
+}
+
+.opinion_against {
+  background-color: #FFC4C4;
+}
+
+#vote_type0 {
+  background-color: #EED9A1 !important;
+}
+#vote_type1 {
+  background-color: #EA958C !important;
+}

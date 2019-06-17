@@ -1,0 +1,1 @@
+sudo "$(which node)" start.js
